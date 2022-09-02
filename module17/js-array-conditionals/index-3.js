@@ -15,4 +15,4 @@ console.log(numbers);
 var positionIndex = numbers.indexOf(98);
 console.log(positionIndex);
 
-// if element will not in array than the index will show as -1
+// Note: if element will not in array than the index will show as -1

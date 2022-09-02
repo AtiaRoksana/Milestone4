@@ -7,7 +7,7 @@ if (math == true) {
         if (strateline == true) {
 
         }
-        console
+        console.log('can not');
 
     }
     else {
