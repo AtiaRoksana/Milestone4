@@ -13,7 +13,7 @@ var age = 17;
 
 //string data type
 // for string type veriable use ("") duble cotetion or a single cotetion('')  
-var person = "Atia Ruksana";
+var person = "Bodor uddin";
 
 //boolean data type
 //It can only take the values true or false and written without quotes.
