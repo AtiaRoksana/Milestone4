@@ -16,7 +16,6 @@ for (var i = 0; i < numbers.length; i++) {
     // console.log(numbers[i]);
 }
 
-
 var items = ['bottol', 'pomet', 'mouse', 'sunglass', 'pen', 'paper', 'laptop'];
 for (i = 0; i < items.length; i++) {
     var item = items[i];
